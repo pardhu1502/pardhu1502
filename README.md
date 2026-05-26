@@ -1,6 +1,12 @@
 # Hi I'm Pardha-Saradhi
 
-## AI & DS undergraduate who likes building ML models, web applications, and NLP-based systems. Interested in learning, experimenting, and shipping useful projects.<br>
+## Hi, I’m Palli Pardha Saradhi Charan, a BTech student in Computer Science and Engineering (AI & DS) at IIIT Senapati.
+
+## I’m interested in Artificial Intelligence, Machine Learning, NLP, Deep Learning, and Backend Development. I enjoy building practical applications that combine research concepts with real-world implementation.
+
+## My work includes multilingual sentiment analysis using transformer models, multimodal deep learning systems for healthcare applications, OCR + NLP based web applications, and backend-driven full-stack projects.
+
+## I primarily work with Python, PyTorch, JavaScript, Node.js, React, and MySQL, and I’m continuously exploring model fine-tuning, inference optimization, and scalable AI systems.<br>
 
 
 ## 🌐 Socials:
@@ -13,7 +19,6 @@
 ![](https://streak-stats.demolab.com/?user=pardhu1502&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pardhu1502&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
