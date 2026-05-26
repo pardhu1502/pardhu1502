@@ -1,6 +1,6 @@
-# Pardha-Saradhi
-# 💫 About Me:
-AI & DS undergraduate who likes building ML models, web applications, and NLP-based systems. Interested in learning, experimenting, and shipping useful projects.<br>
+# Hi I'm Pardha-Saradhi
+//# 💫 About Me:
+## AI & DS undergraduate who likes building ML models, web applications, and NLP-based systems. Interested in learning, experimenting, and shipping useful projects.<br>
 
 
 ## 🌐 Socials:
