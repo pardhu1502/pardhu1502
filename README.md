@@ -20,3 +20,6 @@ I primarily work with Python, PyTorch, JavaScript, Node.js, React, and MySQL, an
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/pardhu1502/pardhu1502/blob/output/github-snake.svg)
+
